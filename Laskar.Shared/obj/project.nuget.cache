@@ -1,18 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "T9/9yuoupaw=",
+  "dgSpecHash": "z/x7C8l3SXg=",
   "success": true,
-  "projectFilePath": "D:\\! SEMESTER 4\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
+  "projectFilePath": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\deswi\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
-    "C:\\Users\\deswi\\.nuget\\packages\\itextsharp\\5.5.13.4\\itextsharp.5.5.13.4.nupkg.sha512"
+    "C:\\Users\\Open Library\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "C:\\Users\\Open Library\\.nuget\\packages\\itextsharp\\5.5.13.4\\itextsharp.5.5.13.4.nupkg.sha512"
   ],
   "logs": [
     {
       "code": "NU1701",
       "level": "Warning",
-      "warningLevel": 1,
       "message": "Package 'iTextSharp 5.5.13.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "projectPath": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
       "libraryId": "iTextSharp",
       "targetGraphs": [
         "net8.0"

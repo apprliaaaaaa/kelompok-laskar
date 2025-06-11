@@ -1,0 +1,22 @@
+﻿<Window x:Class="LaskarGUI.Views.EditGuruWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Edit Akun Guru" Height="250" Width="350" WindowStartupLocation="CenterScreen">
+    <StackPanel Margin="20">
+        <TextBlock Text="Nama:"/>
+        <TextBox x:Name="NamaBox" Margin="0,0,0,10"/>
+
+        <TextBlock Text="Username:"/>
+        <TextBox x:Name="UsernameBox" Margin="0,0,0,10"/>
+
+        <TextBlock Text="Password (opsional):"/>
+        <PasswordBox x:Name="PasswordBox" Margin="0,0,0,10"/>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+            <Button Content="Update" Click="UpdateButton_Click" Background="Green" 
+Foreground="White" Margin="0,0,10,0" Width="70"/>
+            <Button Content="Batal" Click="BatalButton_Click" Background="Green" 
+Foreground="White" Width="70"/>
+        </StackPanel>
+    </StackPanel>
+</Window>
