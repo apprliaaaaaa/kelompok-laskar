@@ -1,0 +1,6 @@
+@satuAPI_HostAddress = http://localhost:5141
+
+GET {{satuAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

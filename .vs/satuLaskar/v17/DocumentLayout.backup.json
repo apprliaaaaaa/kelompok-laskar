@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Documents\\satuLaskar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\hp\\documents\\satulaskar\\laskargui\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E1F67-8011-44CF-91B3-CDBF938D6F70}|Laskar.CLI\\Laskar.CLI.csproj|c:\\users\\hp\\documents\\satulaskar\\laskar.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9E1F67-8011-44CF-91B3-CDBF938D6F70}|Laskar.CLI\\Laskar.CLI.csproj|solutionrelative:laskar.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\hp\\documents\\satulaskar\\laskargui\\laskargui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\laskargui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\hp\\documents\\satulaskar\\laskargui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\hp\\documents\\satulaskar\\laskargui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\satuLaskar\\LaskarGUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LaskarGUI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\satuLaskar\\LaskarGUI\\App.xaml.cs",
+              "RelativeToolTip": "LaskarGUI\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:28:51.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\satuLaskar\\Laskar.CLI\\Program.cs",
+              "RelativeDocumentMoniker": "Laskar.CLI\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\satuLaskar\\Laskar.CLI\\Program.cs",
+              "RelativeToolTip": "Laskar.CLI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:22:02.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LaskarGUI",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\satuLaskar\\LaskarGUI\\LaskarGUI.csproj",
+              "RelativeDocumentMoniker": "LaskarGUI\\LaskarGUI.csproj",
+              "ToolTip": "C:\\Users\\hp\\Documents\\satuLaskar\\LaskarGUI\\LaskarGUI.csproj",
+              "RelativeToolTip": "LaskarGUI\\LaskarGUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T07:13:26.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\satuLaskar\\LaskarGUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LaskarGUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\hp\\Documents\\satuLaskar\\LaskarGUI\\MainWindow.xaml",
+              "RelativeToolTip": "LaskarGUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T07:12:32.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\satuLaskar\\LaskarGUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaskarGUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\satuLaskar\\LaskarGUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LaskarGUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:12:32.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
