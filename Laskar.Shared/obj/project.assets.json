@@ -73,23 +73,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Open Library\\.nuget\\packages\\": {},
+    "C:\\Users\\aaiis\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
+      "projectUniqueName": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
       "projectName": "Laskar.Shared",
-      "projectPath": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
-      "packagesPath": "C:\\Users\\Open Library\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\obj\\",
+      "projectPath": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
+      "packagesPath": "C:\\Users\\aaiis\\.nuget\\packages\\",
+      "outputPath": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Open Library\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aaiis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -117,7 +117,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -144,7 +144,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

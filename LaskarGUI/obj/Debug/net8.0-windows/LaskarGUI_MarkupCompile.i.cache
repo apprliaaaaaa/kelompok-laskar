@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Open Library\Documents\kelompok-laskar\LaskarGUI\obj\Debug\net8.0-windows\
+C:\AISYAH\RPL\SMT 4\KONSTRUKSI PERANGKAT LUNAK\TUBES KPL\clo4_fitur_aisyah\kelompok-laskar\LaskarGUI\obj\Debug\net8.0-windows\
 LaskarGUI
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\Users\Open Library\Documents\kelompok-laskar\LaskarGUI\App.xaml
-58077601
+C:\AISYAH\RPL\SMT 4\KONSTRUKSI PERANGKAT LUNAK\TUBES KPL\clo4_fitur_aisyah\kelompok-laskar\LaskarGUI\App.xaml
+7-812358492
 
-10698214124
-226-117729361
-MainWindow.xaml;Views\AdminWindow.xaml;Views\EditGuruWindow.xaml;Views\LoginWindow.xaml;Views\TambahGuruWindow.xaml;
+121914790731
+227-2115821221
+MainWindow.xaml;Views\AdminWindow.xaml;Views\EditGuruWindow.xaml;Views\GuruWindow.xaml;Views\LoginWindow.xaml;Views\TambahGuruWindow.xaml;Views\UpdatePerkembanganWindow.xaml;
 
 True
 

@@ -301,6 +301,19 @@
             "rid": "win"
           }
         }
+      },
+      "Laskar.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "iTextSharp": "5.5.13.4"
+        },
+        "compile": {
+          "bin/placeholder/Laskar.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Laskar.Shared.dll": {}
+        }
       }
     }
   },
@@ -841,10 +854,16 @@
         "system.security.cryptography.pkcs.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Laskar.Shared/1.0.0": {
+      "type": "project",
+      "path": "../Laskar.Shared/Laskar.Shared.csproj",
+      "msbuildProject": "../Laskar.Shared/Laskar.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Laskar.Shared >= 1.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 9.0.6",
       "Newtonsoft.Json >= 13.0.3",
       "PDFsharp-GDI >= 6.2.0",
@@ -853,23 +872,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Open Library\\.nuget\\packages\\": {},
+    "C:\\Users\\aaiis\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj",
+      "projectUniqueName": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj",
       "projectName": "Laskar.CLI",
-      "projectPath": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj",
-      "packagesPath": "C:\\Users\\Open Library\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.CLI\\obj\\",
+      "projectPath": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj",
+      "packagesPath": "C:\\Users\\aaiis\\.nuget\\packages\\",
+      "outputPath": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.CLI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Open Library\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aaiis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -884,7 +903,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj": {
+              "projectPath": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -897,7 +920,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -940,7 +963,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

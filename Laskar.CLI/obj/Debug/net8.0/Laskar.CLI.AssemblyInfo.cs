@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Laskar.CLI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6eee5d200b4f1d8136b92c4ae99e914d2a665391")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8430d253f53498fb669eb9f1b531a8843bf9bb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Laskar.CLI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Laskar.CLI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

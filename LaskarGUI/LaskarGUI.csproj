@@ -19,6 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Laskar.CLI\Laskar.CLI.csproj" />
     <ProjectReference Include="..\Laskar.Shared\Laskar.Shared.csproj" />
   </ItemGroup>
 

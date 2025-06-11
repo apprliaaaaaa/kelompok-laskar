@@ -8,10 +8,16 @@
     <Compile Update="Views\EditGuruWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Views\GuruWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="Views\LoginWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Update="Views\TambahGuruWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\UpdatePerkembanganWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
