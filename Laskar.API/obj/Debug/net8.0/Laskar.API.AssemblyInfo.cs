@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Laskar.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a6979462d0a5f76d94bc7d82fcb2312c4b7f77b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+499eb79a0d62aaecef84f55e379c7a093ab8eff7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Laskar.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Laskar.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

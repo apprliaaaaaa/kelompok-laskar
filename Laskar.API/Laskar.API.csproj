@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Service\" />
+    <ProjectReference Include="..\Laskar.Shared\Laskar.Shared.csproj" />
   </ItemGroup>
 
 </Project>
