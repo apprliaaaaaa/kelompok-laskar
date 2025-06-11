@@ -1,106 +1,198 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\",
+  "WorkspaceRootPath": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskargui\\views\\editguruwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\editguruwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D9E1F67-8011-44CF-91B3-CDBF938D6F70}|Laskar.CLI\\Laskar.CLI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.cli\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9E1F67-8011-44CF-91B3-CDBF938D6F70}|Laskar.CLI\\Laskar.CLI.csproj|solutionrelative:laskar.cli\\services\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskargui\\views\\editguruwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\editguruwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\perkembanganlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\perkembanganlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskargui\\views\\tambahguruwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\tambahguruwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\updateperkembanganwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\updateperkembanganwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskargui\\views\\tambahguruwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\tambahguruwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskar.api\\service\\manajemenakunguru.services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|solutionrelative:laskar.api\\service\\manajemenakunguru.services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskar.shared\\models\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskar.shared\\models\\gurumodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\gurumodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskar.api\\controllers\\gurucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|solutionrelative:laskar.api\\controllers\\gurucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskargui\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\adminwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskargui\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\editguruwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\editguruwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskargui\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\detailperkembanganwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\detailperkembanganwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\viewsmodels\\perkembanganviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\viewsmodels\\perkembanganviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\guruwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\guruwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\tambahguruwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\tambahguruwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\tambahguruwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\tambahguruwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskargui\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.api\\service\\manajemenakunguru.services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|solutionrelative:laskar.api\\service\\manajemenakunguru.services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskar.shared\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskar.shared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskar.shared\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskar.shared\\models\\loginstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\loginstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskar.api\\service\\loginautomataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.api\\service\\loginautomataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|solutionrelative:laskar.api\\service\\loginautomataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskar.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.api\\controllers\\perkembangancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|solutionrelative:laskar.api\\controllers\\perkembangancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|solutionrelative:laskar.api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskar.shared\\laskar.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.api\\controllers\\gurucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|solutionrelative:laskar.api\\controllers\\gurucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.api\\laskar.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|solutionrelative:laskar.api\\laskar.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.shared\\laskar.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\laskar.shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D9E1F67-8011-44CF-91B3-CDBF938D6F70}|Laskar.CLI\\Laskar.CLI.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskar.cli\\laskar.cli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0D9E1F67-8011-44CF-91B3-CDBF938D6F70}|Laskar.CLI\\Laskar.CLI.csproj|solutionrelative:laskar.cli\\laskar.cli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskargui\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D9E1F67-8011-44CF-91B3-CDBF938D6F70}|Laskar.CLI\\Laskar.CLI.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskar.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|solutionrelative:laskar.api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.shared\\models\\perkembangansiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\perkembangansiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.shared\\models\\kategoriperkembangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\kategoriperkembangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\detailperkembanganwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\detailperkembanganwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\perkembanganlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\perkembanganlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E1F67-8011-44CF-91B3-CDBF938D6F70}|Laskar.CLI\\Laskar.CLI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.cli\\laskar.cli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D9E1F67-8011-44CF-91B3-CDBF938D6F70}|Laskar.CLI\\Laskar.CLI.csproj|solutionrelative:laskar.cli\\laskar.cli.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E1F67-8011-44CF-91B3-CDBF938D6F70}|Laskar.CLI\\Laskar.CLI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.cli\\services\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D9E1F67-8011-44CF-91B3-CDBF938D6F70}|Laskar.CLI\\Laskar.CLI.csproj|solutionrelative:laskar.cli\\services\\pdfgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.api\\service\\runtimeconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|solutionrelative:laskar.api\\service\\runtimeconfigservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\updateperkembanganwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\updateperkembanganwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\guruwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\guruwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.shared\\models\\runtimeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\runtimeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.shared\\models\\inputperkembangandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\inputperkembangandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.api\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|solutionrelative:laskar.api\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.api\\service\\perkembanganservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ECA536-BE75-4E00-8771-FB563860E33C}|Laskar.API\\Laskar.API.csproj|solutionrelative:laskar.api\\service\\perkembanganservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\editguruwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\editguruwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.shared\\models\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.shared\\models\\gurumodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\gurumodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.shared\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.shared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.shared\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.shared\\models\\loginstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B974D95-0F16-44DD-A458-F1DC949AA8CF}|Laskar.Shared\\Laskar.Shared.csproj|solutionrelative:laskar.shared\\models\\loginstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D9E1F67-8011-44CF-91B3-CDBF938D6F70}|Laskar.CLI\\Laskar.CLI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskar.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D9E1F67-8011-44CF-91B3-CDBF938D6F70}|Laskar.CLI\\Laskar.CLI.csproj|solutionrelative:laskar.cli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskargui\\laskargui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\laskargui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\laskargui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskargui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\tubes-kpl-april-cantik\\kelompok-laskar\\laskargui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|c:\\users\\open library\\documents\\kelompok-laskar\\laskargui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EB164CBE-3133-4F0A-8300-4B7FA84C6661}|LaskarGUI\\LaskarGUI.csproj|solutionrelative:laskargui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -110,7 +202,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,49 +222,128 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminWindow.xaml.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\AdminWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaskarGUI\\Views\\AdminWindow.xaml.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\AdminWindow.xaml.cs",
+              "RelativeToolTip": "LaskarGUI\\Views\\AdminWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:35:26.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerkembanganListWindow.xaml.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\PerkembanganListWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaskarGUI\\Views\\PerkembanganListWindow.xaml.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\PerkembanganListWindow.xaml.cs",
+              "RelativeToolTip": "LaskarGUI\\Views\\PerkembanganListWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:18:57.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdatePerkembanganWindow.xaml.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\UpdatePerkembanganWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaskarGUI\\Views\\UpdatePerkembanganWindow.xaml.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\UpdatePerkembanganWindow.xaml.cs",
+              "RelativeToolTip": "LaskarGUI\\Views\\UpdatePerkembanganWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:43:35.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ApiClient.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.CLI\\Services\\ApiClient.cs",
+              "RelativeDocumentMoniker": "Laskar.CLI\\Services\\ApiClient.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.CLI\\Services\\ApiClient.cs",
+              "RelativeToolTip": "Laskar.CLI\\Services\\ApiClient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:12:17.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EditGuruWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\EditGuruWindow.xaml.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\EditGuruWindow.xaml.cs",
               "RelativeDocumentMoniker": "LaskarGUI\\Views\\EditGuruWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\EditGuruWindow.xaml.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\EditGuruWindow.xaml.cs",
               "RelativeToolTip": "LaskarGUI\\Views\\EditGuruWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T09:03:38.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EditGuruWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\EditGuruWindow.xaml",
-              "RelativeDocumentMoniker": "LaskarGUI\\Views\\EditGuruWindow.xaml",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\EditGuruWindow.xaml",
-              "RelativeToolTip": "LaskarGUI\\Views\\EditGuruWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-11T09:03:09.881Z",
+              "DocumentIndex": 5,
+              "Title": "DetailPerkembanganWindow.xaml.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\DetailPerkembanganWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaskarGUI\\Views\\DetailPerkembanganWindow.xaml.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\DetailPerkembanganWindow.xaml.cs",
+              "RelativeToolTip": "LaskarGUI\\Views\\DetailPerkembanganWindow.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:20:33.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "PerkembanganViewModel.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\ViewsModels\\PerkembanganViewModel.cs",
+              "RelativeDocumentMoniker": "LaskarGUI\\ViewsModels\\PerkembanganViewModel.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\ViewsModels\\PerkembanganViewModel.cs",
+              "RelativeToolTip": "LaskarGUI\\ViewsModels\\PerkembanganViewModel.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:17:01.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GuruWindow.xaml.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\GuruWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaskarGUI\\Views\\GuruWindow.xaml.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\GuruWindow.xaml.cs",
+              "RelativeToolTip": "LaskarGUI\\Views\\GuruWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:40:36.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "TambahGuruWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\TambahGuruWindow.xaml.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\TambahGuruWindow.xaml.cs",
               "RelativeDocumentMoniker": "LaskarGUI\\Views\\TambahGuruWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\TambahGuruWindow.xaml.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\TambahGuruWindow.xaml.cs",
               "RelativeToolTip": "LaskarGUI\\Views\\TambahGuruWindow.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T09:01:49.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "TambahGuruWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\TambahGuruWindow.xaml",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\TambahGuruWindow.xaml",
               "RelativeDocumentMoniker": "LaskarGUI\\Views\\TambahGuruWindow.xaml",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\TambahGuruWindow.xaml",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\TambahGuruWindow.xaml",
               "RelativeToolTip": "LaskarGUI\\Views\\TambahGuruWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-11T09:01:03.64Z",
@@ -180,114 +351,386 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "InputValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Models\\InputValidator.cs",
-              "RelativeDocumentMoniker": "Laskar.Shared\\Models\\InputValidator.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Models\\InputValidator.cs",
-              "RelativeToolTip": "Laskar.Shared\\Models\\InputValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaskarGUI\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "LaskarGUI\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwAwAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T08:59:34.887Z",
+              "WhenOpened": "2025-06-11T08:36:30.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "GuruModels.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Models\\GuruModels.cs",
-              "RelativeDocumentMoniker": "Laskar.Shared\\Models\\GuruModels.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Models\\GuruModels.cs",
-              "RelativeToolTip": "Laskar.Shared\\Models\\GuruModels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T08:58:45.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "ManajemenAkunGuru.Services.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.API\\Service\\ManajemenAkunGuru.Services.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Service\\ManajemenAkunGuru.Services.cs",
               "RelativeDocumentMoniker": "Laskar.API\\Service\\ManajemenAkunGuru.Services.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.API\\Service\\ManajemenAkunGuru.Services.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Service\\ManajemenAkunGuru.Services.cs",
               "RelativeToolTip": "Laskar.API\\Service\\ManajemenAkunGuru.Services.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwBAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T08:58:01.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Laskar.API\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Laskar.API\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:28:24.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PerkembanganController.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Controllers\\PerkembanganController.cs",
+              "RelativeDocumentMoniker": "Laskar.API\\Controllers\\PerkembanganController.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Controllers\\PerkembanganController.cs",
+              "RelativeToolTip": "Laskar.API\\Controllers\\PerkembanganController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA5wD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:30:38.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginAutomataServices.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Service\\LoginAutomataServices.cs",
+              "RelativeDocumentMoniker": "Laskar.API\\Service\\LoginAutomataServices.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Service\\LoginAutomataServices.cs",
+              "RelativeToolTip": "Laskar.API\\Service\\LoginAutomataServices.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAIAwwEYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:29:37.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "GuruController.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.API\\Controllers\\GuruController.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Controllers\\GuruController.cs",
               "RelativeDocumentMoniker": "Laskar.API\\Controllers\\GuruController.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.API\\Controllers\\GuruController.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Controllers\\GuruController.cs",
               "RelativeToolTip": "Laskar.API\\Controllers\\GuruController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T08:57:09.051Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Laskar.Shared.csproj",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
+              "RelativeDocumentMoniker": "Laskar.Shared\\Laskar.Shared.csproj",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
+              "RelativeToolTip": "Laskar.Shared\\Laskar.Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T08:28:41.458Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "LaskarGUI\\Views\\LoginWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "LaskarGUI\\Views\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwDwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T08:36:30.849Z"
+              "DocumentIndex": 16,
+              "Title": "Laskar.API.http",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Laskar.API.http",
+              "RelativeDocumentMoniker": "Laskar.API\\Laskar.API.http",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Laskar.API.http",
+              "RelativeToolTip": "Laskar.API\\Laskar.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-11T10:35:20.568Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "LoginWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\LoginWindow.xaml",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "LaskarGUI\\Views\\LoginWindow.xaml",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\LoginWindow.xaml",
               "RelativeToolTip": "LaskarGUI\\Views\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-11T08:36:11.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AdminWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\AdminWindow.xaml.cs",
-              "RelativeDocumentMoniker": "LaskarGUI\\Views\\AdminWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\AdminWindow.xaml.cs",
-              "RelativeToolTip": "LaskarGUI\\Views\\AdminWindow.xaml.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwBIAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 24,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LaskarGUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LaskarGUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T08:35:26.248Z",
+              "WhenOpened": "2025-06-11T07:12:32.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PerkembanganSiswa.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\PerkembanganSiswa.cs",
+              "RelativeDocumentMoniker": "Laskar.Shared\\Models\\PerkembanganSiswa.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\PerkembanganSiswa.cs",
+              "RelativeToolTip": "Laskar.Shared\\Models\\PerkembanganSiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:36:46.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "LaskarGUI\\App.xaml.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\App.xaml.cs",
+              "RelativeToolTip": "LaskarGUI\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:28:51.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "LaskarGUI\\AssemblyInfo.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\AssemblyInfo.cs",
+              "RelativeToolTip": "LaskarGUI\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:21:12.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\App.xaml",
+              "RelativeDocumentMoniker": "LaskarGUI\\App.xaml",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\App.xaml",
+              "RelativeToolTip": "LaskarGUI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T10:31:43.917Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Startup.cs",
+              "RelativeDocumentMoniker": "Laskar.API\\Startup.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Startup.cs",
+              "RelativeToolTip": "Laskar.API\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:30:06.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "KategoriPerkembangan.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\KategoriPerkembangan.cs",
+              "RelativeDocumentMoniker": "Laskar.Shared\\Models\\KategoriPerkembangan.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\KategoriPerkembangan.cs",
+              "RelativeToolTip": "Laskar.Shared\\Models\\KategoriPerkembangan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:36:26.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DetailPerkembanganWindow.xaml",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\DetailPerkembanganWindow.xaml",
+              "RelativeDocumentMoniker": "LaskarGUI\\Views\\DetailPerkembanganWindow.xaml",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\DetailPerkembanganWindow.xaml",
+              "RelativeToolTip": "LaskarGUI\\Views\\DetailPerkembanganWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T10:20:20.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PerkembanganListWindow.xaml",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\PerkembanganListWindow.xaml",
+              "RelativeDocumentMoniker": "LaskarGUI\\Views\\PerkembanganListWindow.xaml",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\PerkembanganListWindow.xaml",
+              "RelativeToolTip": "LaskarGUI\\Views\\PerkembanganListWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T10:18:18.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Laskar.CLI.csproj",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj",
+              "RelativeDocumentMoniker": "Laskar.CLI\\Laskar.CLI.csproj",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj",
+              "RelativeToolTip": "Laskar.CLI\\Laskar.CLI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T08:28:35.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PdfGenerator.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.CLI\\Services\\PdfGenerator.cs",
+              "RelativeDocumentMoniker": "Laskar.CLI\\Services\\PdfGenerator.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.CLI\\Services\\PdfGenerator.cs",
+              "RelativeToolTip": "Laskar.CLI\\Services\\PdfGenerator.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T10:12:34.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RuntimeConfigService.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Service\\RuntimeConfigService.cs",
+              "RelativeDocumentMoniker": "Laskar.API\\Service\\RuntimeConfigService.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Service\\RuntimeConfigService.cs",
+              "RelativeToolTip": "Laskar.API\\Service\\RuntimeConfigService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA/wCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:32:36.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdatePerkembanganWindow.xaml",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\UpdatePerkembanganWindow.xaml",
+              "RelativeDocumentMoniker": "LaskarGUI\\Views\\UpdatePerkembanganWindow.xaml",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\UpdatePerkembanganWindow.xaml",
+              "RelativeToolTip": "LaskarGUI\\Views\\UpdatePerkembanganWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T09:43:10.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GuruWindow.xaml",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\GuruWindow.xaml",
+              "RelativeDocumentMoniker": "LaskarGUI\\Views\\GuruWindow.xaml",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\GuruWindow.xaml",
+              "RelativeToolTip": "LaskarGUI\\Views\\GuruWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T09:39:15.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RuntimeConfig.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\RuntimeConfig.cs",
+              "RelativeDocumentMoniker": "Laskar.Shared\\Models\\RuntimeConfig.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\RuntimeConfig.cs",
+              "RelativeToolTip": "Laskar.Shared\\Models\\RuntimeConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:37:04.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "InputPerkembanganDto.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\InputPerkembanganDto.cs",
+              "RelativeDocumentMoniker": "Laskar.Shared\\Models\\InputPerkembanganDto.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\InputPerkembanganDto.cs",
+              "RelativeToolTip": "Laskar.Shared\\Models\\InputPerkembanganDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:34:53.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\config.json",
+              "RelativeDocumentMoniker": "Laskar.API\\config.json",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\config.json",
+              "RelativeToolTip": "Laskar.API\\config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T09:34:10.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PerkembanganService.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Service\\PerkembanganService.cs",
+              "RelativeDocumentMoniker": "Laskar.API\\Service\\PerkembanganService.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.API\\Service\\PerkembanganService.cs",
+              "RelativeToolTip": "Laskar.API\\Service\\PerkembanganService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T09:31:55.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EditGuruWindow.xaml",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\EditGuruWindow.xaml",
+              "RelativeDocumentMoniker": "LaskarGUI\\Views\\EditGuruWindow.xaml",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\EditGuruWindow.xaml",
+              "RelativeToolTip": "LaskarGUI\\Views\\EditGuruWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-11T09:03:09.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "InputValidator.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\InputValidator.cs",
+              "RelativeDocumentMoniker": "Laskar.Shared\\Models\\InputValidator.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\InputValidator.cs",
+              "RelativeToolTip": "Laskar.Shared\\Models\\InputValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:59:34.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GuruModels.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\GuruModels.cs",
+              "RelativeDocumentMoniker": "Laskar.Shared\\Models\\GuruModels.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\GuruModels.cs",
+              "RelativeToolTip": "Laskar.Shared\\Models\\GuruModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:58:45.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "AdminWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\AdminWindow.xaml",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\AdminWindow.xaml",
               "RelativeDocumentMoniker": "LaskarGUI\\Views\\AdminWindow.xaml",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\Views\\AdminWindow.xaml",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\Views\\AdminWindow.xaml",
               "RelativeToolTip": "LaskarGUI\\Views\\AdminWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-11T08:34:47.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 41,
               "Title": "LoginResponse.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Models\\LoginResponse.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\LoginResponse.cs",
               "RelativeDocumentMoniker": "Laskar.Shared\\Models\\LoginResponse.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Models\\LoginResponse.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\LoginResponse.cs",
               "RelativeToolTip": "Laskar.Shared\\Models\\LoginResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -295,11 +738,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 42,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Models\\User.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\User.cs",
               "RelativeDocumentMoniker": "Laskar.Shared\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Models\\User.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\User.cs",
               "RelativeToolTip": "Laskar.Shared\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,11 +750,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 43,
               "Title": "UserRole.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Models\\UserRole.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\UserRole.cs",
               "RelativeDocumentMoniker": "Laskar.Shared\\Models\\UserRole.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Models\\UserRole.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\UserRole.cs",
               "RelativeToolTip": "Laskar.Shared\\Models\\UserRole.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,11 +762,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 44,
               "Title": "LoginState.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Models\\LoginState.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\LoginState.cs",
               "RelativeDocumentMoniker": "Laskar.Shared\\Models\\LoginState.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Models\\LoginState.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Models\\LoginState.cs",
               "RelativeToolTip": "Laskar.Shared\\Models\\LoginState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -331,71 +774,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LoginAutomataServices.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.API\\Service\\LoginAutomataServices.cs",
-              "RelativeDocumentMoniker": "Laskar.API\\Service\\LoginAutomataServices.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.API\\Service\\LoginAutomataServices.cs",
-              "RelativeToolTip": "Laskar.API\\Service\\LoginAutomataServices.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAD4v0YAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T08:29:37.118Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Laskar.Shared.csproj",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
-              "RelativeDocumentMoniker": "Laskar.Shared\\Laskar.Shared.csproj",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
-              "RelativeToolTip": "Laskar.Shared\\Laskar.Shared.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-11T08:28:41.458Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Laskar.CLI.csproj",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj",
-              "RelativeDocumentMoniker": "Laskar.CLI\\Laskar.CLI.csproj",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj",
-              "RelativeToolTip": "Laskar.CLI\\Laskar.CLI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-11T08:28:35.668Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.API\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "Laskar.API\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.API\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "Laskar.API\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T08:28:24.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\App.xaml.cs",
-              "RelativeDocumentMoniker": "LaskarGUI\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\App.xaml.cs",
-              "RelativeToolTip": "LaskarGUI\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T07:28:51.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 45,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.CLI\\Program.cs",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.CLI\\Program.cs",
               "RelativeDocumentMoniker": "Laskar.CLI\\Program.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.CLI\\Program.cs",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.CLI\\Program.cs",
               "RelativeToolTip": "Laskar.CLI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -403,38 +786,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 46,
               "Title": "LaskarGUI.csproj",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\LaskarGUI.csproj",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\LaskarGUI.csproj",
               "RelativeDocumentMoniker": "LaskarGUI\\LaskarGUI.csproj",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\LaskarGUI.csproj",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\LaskarGUI.csproj",
               "RelativeToolTip": "LaskarGUI\\LaskarGUI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-11T07:13:26.478Z"
+              "WhenOpened": "2025-06-11T07:13:26.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 47,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\MainWindow.xaml",
               "RelativeDocumentMoniker": "LaskarGUI\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\MainWindow.xaml",
+              "ToolTip": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\LaskarGUI\\MainWindow.xaml",
               "RelativeToolTip": "LaskarGUI\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-06-11T07:12:32.874Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "LaskarGUI\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\MainWindow.xaml.cs",
-              "RelativeToolTip": "LaskarGUI\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T07:12:32.166Z"
             }
           ]
         }

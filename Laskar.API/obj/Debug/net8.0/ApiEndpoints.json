@@ -1,0 +1,186 @@
+[
+  {
+    "ContainingType": "ManajemenAkunGuru.Controllers.GuruController",
+    "Method": "GetAll",
+    "RelativePath": "api/guru",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ManajemenAkunGuru.Controllers.GuruController",
+    "Method": "Create",
+    "RelativePath": "api/guru",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "guru",
+        "Type": "ManajemenAkunGuru.Models.GuruModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ManajemenAkunGuru.Controllers.GuruController",
+    "Method": "GetById",
+    "RelativePath": "api/guru/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ManajemenAkunGuru.Controllers.GuruController",
+    "Method": "Update",
+    "RelativePath": "api/guru/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "guru",
+        "Type": "ManajemenAkunGuru.Models.GuruModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ManajemenAkunGuru.Controllers.GuruController",
+    "Method": "Delete",
+    "RelativePath": "api/guru/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laskar.API.Controllers.LoginController",
+    "Method": "Login",
+    "RelativePath": "api/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Laskar.API.Controllers.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laskar.API.Controllers.LoginController",
+    "Method": "Logout",
+    "RelativePath": "api/login/api/logout",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laskar.API.Controllers.PerkembanganController",
+    "Method": "GetAll",
+    "RelativePath": "api/perkembangan",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laskar.API.Controllers.PerkembanganController",
+    "Method": "Tambah",
+    "RelativePath": "api/perkembangan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Laskar.Shared.Models.InputPerkembanganDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laskar.API.Controllers.PerkembanganController",
+    "Method": "GetById",
+    "RelativePath": "api/perkembangan/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laskar.API.Controllers.PerkembanganController",
+    "Method": "Update",
+    "RelativePath": "api/perkembangan/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "Laskar.Shared.Models.InputPerkembanganDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Laskar.API.Controllers.PerkembanganController",
+    "Method": "Delete",
+    "RelativePath": "api/perkembangan/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

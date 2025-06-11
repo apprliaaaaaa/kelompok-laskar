@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Laskar.API\\Laskar.API.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      },
+      {
+        "Path": "LaskarGUI\\LaskarGUI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

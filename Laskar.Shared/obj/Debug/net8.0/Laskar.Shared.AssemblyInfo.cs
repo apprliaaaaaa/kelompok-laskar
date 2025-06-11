@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Laskar.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8430d253f53498fb669eb9f1b531a8843bf9bb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6826500116d74b147eef1a93ca081e522e566da")]
 [assembly: System.Reflection.AssemblyProductAttribute("Laskar.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Laskar.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,7 +10,7 @@ namespace LaskarGUI.Views
 {
     public partial class LoginWindow : Window
     {
-        private static readonly HttpClient client = new HttpClient { BaseAddress = new Uri("http://localhost:5077/") };
+        private static readonly HttpClient client = new HttpClient { BaseAddress = new Uri("http://localhost:5011/") };
         public string Role { get; private set; } = "";
 
         public LoginWindow()

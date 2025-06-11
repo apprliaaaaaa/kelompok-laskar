@@ -73,23 +73,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\aaiis\\.nuget\\packages\\": {},
+    "C:\\Users\\hp\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
+      "projectUniqueName": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
       "projectName": "Laskar.Shared",
-      "projectPath": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
-      "packagesPath": "C:\\Users\\aaiis\\.nuget\\packages\\",
-      "outputPath": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.Shared\\obj\\",
+      "projectPath": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
+      "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+      "outputPath": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\aaiis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -98,7 +98,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
