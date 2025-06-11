@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj": {}
+    "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj": {
+    "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj",
+        "projectUniqueName": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj",
         "projectName": "Laskar.CLI",
-        "projectPath": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj",
-        "packagesPath": "C:\\Users\\Open Library\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.CLI\\obj\\",
+        "projectPath": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.CLI\\Laskar.CLI.csproj",
+        "packagesPath": "C:\\Users\\aaiis\\.nuget\\packages\\",
+        "outputPath": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.CLI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Open Library\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aaiis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,7 +32,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj": {
+                "projectPath": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -45,7 +49,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -88,7 +92,79 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
+        "projectName": "Laskar.Shared",
+        "projectPath": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
+        "packagesPath": "C:\\Users\\aaiis\\.nuget\\packages\\",
+        "outputPath": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aaiis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

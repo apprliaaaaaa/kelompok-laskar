@@ -1,0 +1,9 @@
+﻿{
+    "MaxKarakterNomorInduk": 6,
+    "MaxKarakterPerKategori": {
+        "NilaiAgama": 200,
+        "JatiDiri": 300,
+        "LiterasiDanSTEM": 400,
+        "ProyekPenguatanPancasila": 350
+    }
+}
