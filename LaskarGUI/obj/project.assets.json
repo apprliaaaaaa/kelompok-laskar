@@ -2,6 +2,31 @@
   "version": 3,
   "targets": {
     "net8.0-windows7.0": {
+      "BouncyCastle.Cryptography/2.4.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/BouncyCastle.Cryptography.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/BouncyCastle.Cryptography.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "iTextSharp/5.5.13.4": {
+        "type": "package",
+        "dependencies": {
+          "BouncyCastle.Cryptography": "2.4.0"
+        },
+        "compile": {
+          "lib/net461/itextsharp.dll": {}
+        },
+        "runtime": {
+          "lib/net461/itextsharp.dll": {}
+        }
+      },
       "Microsoft.Extensions.DependencyInjection/8.0.1": {
         "type": "package",
         "dependencies": {
@@ -262,10 +287,59 @@
             "rid": "win"
           }
         }
+      },
+      "Laskar.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "iTextSharp": "5.5.13.4"
+        },
+        "compile": {
+          "bin/placeholder/Laskar.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Laskar.Shared.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "BouncyCastle.Cryptography/2.4.0": {
+      "sha512": "SwXsAV3sMvAU/Nn31pbjhWurYSjJ+/giI/0n6tCrYoupEK34iIHCuk3STAd9fx8yudM85KkLSVdn951vTng/vQ==",
+      "type": "package",
+      "path": "bouncycastle.cryptography/2.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "bouncycastle.cryptography.2.4.0.nupkg.sha512",
+        "bouncycastle.cryptography.nuspec",
+        "lib/net461/BouncyCastle.Cryptography.dll",
+        "lib/net461/BouncyCastle.Cryptography.xml",
+        "lib/net6.0/BouncyCastle.Cryptography.dll",
+        "lib/net6.0/BouncyCastle.Cryptography.xml",
+        "lib/netstandard2.0/BouncyCastle.Cryptography.dll",
+        "lib/netstandard2.0/BouncyCastle.Cryptography.xml",
+        "packageIcon.png"
+      ]
+    },
+    "iTextSharp/5.5.13.4": {
+      "sha512": "/cvCNv8AJ+XuD99u4NfHSSxkBJKTdvP36wcfQF9V1Cjzi1ycyFSa4vJ64a3DhFVUTKVO60WF8OmAqngQDTHgYA==",
+      "type": "package",
+      "path": "itextsharp/5.5.13.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "gnu-agpl-v3.0.md",
+        "itextsharp.5.5.13.4.nupkg.sha512",
+        "itextsharp.nuspec",
+        "lib/net461/iTextSharp.xml",
+        "lib/net461/itextsharp.dll",
+        "notice.txt"
+      ]
+    },
     "Microsoft.Extensions.DependencyInjection/8.0.1": {
       "sha512": "BmANAnR5Xd4Oqw7yQ75xOAYODybZQRzdeNucg7kS5wWKd2PNnMdYtJ2Vciy0QLylRmv42DGl5+AFL9izA6F1Rw==",
       "type": "package",
@@ -743,33 +817,39 @@
         "system.security.cryptography.pkcs.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Laskar.Shared/1.0.0": {
+      "type": "project",
+      "path": "../Laskar.Shared/Laskar.Shared.csproj",
+      "msbuildProject": "../Laskar.Shared/Laskar.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
+      "Laskar.Shared >= 1.0.0",
       "Newtonsoft.Json >= 13.0.3",
       "PDFsharp-GDI >= 6.2.0",
       "System.Drawing.Common >= 9.0.6"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\deswi\\.nuget\\packages\\": {},
+    "C:\\Users\\Open Library\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\! SEMESTER 4\\kelompok-laskar\\LaskarGUI\\LaskarGUI.csproj",
+      "projectUniqueName": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\LaskarGUI.csproj",
       "projectName": "LaskarGUI",
-      "projectPath": "D:\\! SEMESTER 4\\kelompok-laskar\\LaskarGUI\\LaskarGUI.csproj",
-      "packagesPath": "C:\\Users\\deswi\\.nuget\\packages\\",
-      "outputPath": "D:\\! SEMESTER 4\\kelompok-laskar\\LaskarGUI\\obj\\",
+      "projectPath": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\LaskarGUI.csproj",
+      "packagesPath": "C:\\Users\\Open Library\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\LaskarGUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\deswi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Open Library\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -778,12 +858,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj": {
+              "projectPath": "C:\\Users\\Open Library\\Documents\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -796,7 +881,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0-windows7.0": {
@@ -834,8 +919,20 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'iTextSharp 5.5.13.4' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "iTextSharp",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
 }
