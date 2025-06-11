@@ -12,7 +12,7 @@ namespace LaskarGUI.Views
         private readonly PerkembanganViewModel _item;
         private static readonly HttpClient client = new HttpClient
         {
-            BaseAddress = new System.Uri("http://localhost:5077/")
+            BaseAddress = new System.Uri("http://localhost:5011/")
         };
 
         public UpdatePerkembanganWindow(PerkembanganViewModel item)

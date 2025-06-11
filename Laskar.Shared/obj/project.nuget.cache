@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "W/d/bNhuqj8=",
+  "dgSpecHash": "H0toPQfp0Hw=",
   "success": true,
-  "projectFilePath": "C:\\AISYAH\\RPL\\SMT 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES KPL\\clo4_fitur_aisyah\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
+  "projectFilePath": "C:\\tubes-kpl-april-cantik\\kelompok-laskar\\Laskar.Shared\\Laskar.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\aaiis\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
-    "C:\\Users\\aaiis\\.nuget\\packages\\itextsharp\\5.5.13.4\\itextsharp.5.5.13.4.nupkg.sha512"
+    "C:\\Users\\hp\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\itextsharp\\5.5.13.4\\itextsharp.5.5.13.4.nupkg.sha512"
   ],
   "logs": [
     {

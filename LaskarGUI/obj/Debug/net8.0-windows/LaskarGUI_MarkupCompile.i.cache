@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\AISYAH\RPL\SMT 4\KONSTRUKSI PERANGKAT LUNAK\TUBES KPL\clo4_fitur_aisyah\kelompok-laskar\LaskarGUI\obj\Debug\net8.0-windows\
+C:\tubes-kpl-april-cantik\kelompok-laskar\LaskarGUI\obj\Debug\net8.0-windows\
 LaskarGUI
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
-C:\AISYAH\RPL\SMT 4\KONSTRUKSI PERANGKAT LUNAK\TUBES KPL\clo4_fitur_aisyah\kelompok-laskar\LaskarGUI\App.xaml
-7-812358492
+C:\tubes-kpl-april-cantik\kelompok-laskar\LaskarGUI\App.xaml
+91036461401
 
-121914790731
-227-2115821221
-MainWindow.xaml;Views\AdminWindow.xaml;Views\EditGuruWindow.xaml;Views\GuruWindow.xaml;Views\LoginWindow.xaml;Views\TambahGuruWindow.xaml;Views\UpdatePerkembanganWindow.xaml;
+151771348994
+227-781436580
+MainWindow.xaml;Views\AdminWindow.xaml;Views\DetailPerkembanganWindow.xaml;Views\EditGuruWindow.xaml;Views\GuruWindow.xaml;Views\LoginWindow.xaml;Views\PerkembanganListWindow.xaml;Views\TambahGuruWindow.xaml;Views\UpdatePerkembanganWindow.xaml;
 
 True
 

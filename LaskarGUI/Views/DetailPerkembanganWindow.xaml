@@ -1,0 +1,68 @@
+﻿<Window x:Class="LaskarGUI.Views.DetailPerkembanganWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Detail Catatan Perkembangan"
+        Height="600" Width="500"
+        WindowStartupLocation="CenterScreen">
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Margin="20">
+            <TextBlock Text="Detail Siswa" FontWeight="Bold" FontSize="18" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Nama:"/>
+            <TextBox Text="{Binding NamaSiswa}" IsReadOnly="True"/>
+
+            <TextBlock Text="Nomor Induk:" Margin="0,10,0,0"/>
+            <TextBox Text="{Binding NomorInduk}" IsReadOnly="True"/>
+
+            <TextBlock Text="Kelas:" Margin="0,10,0,0"/>
+            <TextBox Text="{Binding Kelas}" IsReadOnly="True"/>
+
+            <TextBlock Text="Semester:" Margin="0,10,0,0"/>
+            <TextBox Text="{Binding Semester}" IsReadOnly="True"/>
+
+            <TextBlock Text="Tahun Ajaran:" Margin="0,10,0,0"/>
+            <TextBox Text="{Binding TahunAjaran}" IsReadOnly="True"/>
+
+            <!-- ✅ Ganti NilaiAgama menjadi Agama -->
+            <TextBlock Text="Nilai Agama:" Margin="0,10,0,0"/>
+            <TextBox Text="{Binding Agama}"
+                     IsReadOnly="True"
+                     AcceptsReturn="True"
+                     TextWrapping="Wrap"
+                     Height="80"
+                     VerticalScrollBarVisibility="Auto"/>
+
+            <TextBlock Text="Jati Diri:" Margin="0,10,0,0"/>
+            <TextBox Text="{Binding JatiDiri}"
+                     IsReadOnly="True"
+                     AcceptsReturn="True"
+                     TextWrapping="Wrap"
+                     Height="80"
+                     VerticalScrollBarVisibility="Auto"/>
+
+            <TextBlock Text="Literasi dan STEM:" Margin="0,10,0,0"/>
+            <TextBox Text="{Binding Literasi}"
+                     IsReadOnly="True"
+                     AcceptsReturn="True"
+                     TextWrapping="Wrap"
+                     Height="80"
+                     VerticalScrollBarVisibility="Auto"/>
+
+            <TextBlock Text="P5 (Pancasila):" Margin="0,10,0,0"/>
+            <TextBox Text="{Binding P5}"
+                     IsReadOnly="True"
+                     AcceptsReturn="True"
+                     TextWrapping="Wrap"
+                     Height="80"
+                     VerticalScrollBarVisibility="Auto"/>
+
+            <Button Content="Cetak PDF"
+                    Width="120"
+                    HorizontalAlignment="Right"
+                    Margin="0,20,0,0"
+                    Background="Green" 
+                    Foreground="White"
+                    Click="CetakPDF_Click"/>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

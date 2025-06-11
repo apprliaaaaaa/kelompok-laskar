@@ -1,0 +1,53 @@
+﻿<Window x:Class="LaskarGUI.Views.PerkembanganListWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Daftar Perkembangan Siswa"
+        Height="450" Width="700"
+        WindowStartupLocation="CenterScreen">
+
+    <Grid Margin="10">
+        <DataGrid x:Name="PerkembanganGrid"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  CanUserAddRows="False"
+                  SelectionMode="Single"
+                  HeadersVisibility="Column" RenderTransformOrigin="0.5,0.5">
+            <DataGrid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="0.136"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="0.807"/>
+                </TransformGroup>
+            </DataGrid.RenderTransform>
+            <DataGrid.Columns>
+
+                <!-- Nama Siswa -->
+                <DataGridTextColumn Header="Nama" Binding="{Binding NamaSiswa}" Width="*" />
+
+                <!-- Kelas -->
+                <DataGridTextColumn Header="Kelas" Binding="{Binding Kelas}" Width="100" />
+
+                <!-- Aksi -->
+                <DataGridTemplateColumn Header="Aksi" Width="220">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                                <Button Content="Detail" Margin="5,0" Padding="5,2"
+                                        Background="Green" 
+                                Foreground="White" Click="DetailButton_Click"/>
+                                <Button Content="Update" Margin="5,0" Padding="5,2"
+                                        Background="Green" 
+                                Foreground="White" Click="UpdateButton_Click"/>
+                                <Button Content="Hapus" Margin="5,0" Padding="5,2"
+                                        Background="Red" Foreground="White"
+                                        Click="HapusButton_Click"/>
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

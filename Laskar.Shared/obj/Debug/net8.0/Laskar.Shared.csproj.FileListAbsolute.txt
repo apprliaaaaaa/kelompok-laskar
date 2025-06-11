@@ -1,0 +1,13 @@
+C:\tubes-kpl-april-cantik\kelompok-laskar\Laskar.Shared\bin\Debug\net8.0\Laskar.Shared.deps.json
+C:\tubes-kpl-april-cantik\kelompok-laskar\Laskar.Shared\bin\Debug\net8.0\Laskar.Shared.dll
+C:\tubes-kpl-april-cantik\kelompok-laskar\Laskar.Shared\bin\Debug\net8.0\Laskar.Shared.pdb
+C:\tubes-kpl-april-cantik\kelompok-laskar\Laskar.Shared\obj\Debug\net8.0\Laskar.Shared.csproj.AssemblyReference.cache
+C:\tubes-kpl-april-cantik\kelompok-laskar\Laskar.Shared\obj\Debug\net8.0\Laskar.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\tubes-kpl-april-cantik\kelompok-laskar\Laskar.Shared\obj\Debug\net8.0\Laskar.Shared.AssemblyInfoInputs.cache
+C:\tubes-kpl-april-cantik\kelompok-laskar\Laskar.Shared\obj\Debug\net8.0\Laskar.Shared.AssemblyInfo.cs
+C:\tubes-kpl-april-cantik\kelompok-laskar\Laskar.Shared\obj\Debug\net8.0\Laskar.Shared.csproj.CoreCompileInputs.cache
+C:\tubes-kpl-april-cantik\kelompok-laskar\Laskar.Shared\obj\Debug\net8.0\Laskar.Shared.sourcelink.json
+C:\tubes-kpl-april-cantik\kelompok-laskar\Laskar.Shared\obj\Debug\net8.0\Laskar.Shared.dll
+C:\tubes-kpl-april-cantik\kelompok-laskar\Laskar.Shared\obj\Debug\net8.0\refint\Laskar.Shared.dll
+C:\tubes-kpl-april-cantik\kelompok-laskar\Laskar.Shared\obj\Debug\net8.0\Laskar.Shared.pdb
+C:\tubes-kpl-april-cantik\kelompok-laskar\Laskar.Shared\obj\Debug\net8.0\ref\Laskar.Shared.dll
